@@ -1,0 +1,13 @@
+body {
+  background-color: lightcyan;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+#photo {
+  border-radius: 10%;
+}
+
+.link {
+  color:darkblue;
+  font-weight: 700;
+}
